@@ -1,0 +1,10 @@
+verificaMySQL
+
+	Por algumas razões o MySQL pára de rodar no servidor. Este script verifica de tempos em tempos se o MySQL está rodando e, se não tiver, o inicia.
+
+MATERIAL DE PESQUISA
+- http://www.vivaolinux.com.br/topico/Shell-Script/Testar-se-valor-da-variavel-contem-string
+- http://www.vivaolinux.com.br/topico/Shell-Script/Resultado-de-um-comando-para-uma-variavel...
+- http://ubuntu.5.x6.nabble.com/Comandos-para-trabalhar-com-Mysql-td121966.html
+- http://www.cyberciti.biz/faq/bash-comment-out-multiple-line-code/
+- http://stackoverflow.com/questions/878600/how-to-create-cronjob-using-bash

@@ -1,0 +1,9 @@
+Rode os seguintes comandos para deixar o script agendado no cron:
+
+crontab -l > verificamysql
+echo "*/5 * * * * /home/usuario/verificaMySQL/verificaMySQL.sh" >> verificamysql
+crontab verificamysql
+rm verificamysql
+
+Fonte: http://stackoverflow.com/a/878647
+
